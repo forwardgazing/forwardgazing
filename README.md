@@ -12,6 +12,7 @@
 ## 🚀 Мои проекты
 *   **[SOC-Analyst-Lab](https://github.com/forwardgazing/SOC-Analyst-Lab)** — Домашняя лаборатория на базе Wazuh и Sysmon. Развертывание, написание кастомных правил, разбор реальных сценариев атак.
 *   **[Credit Calculator](https://github.com/forwardgazing/credit-calculator)** — Интерактивный веб-калькулятор с визуализацией. Пример качественной разработки и оформления документации.
+*   **[Python-SOC-Tools](https://github.com/forwardgazing/Python-SOC-Tools)** — Скрипт на Python для автоматического анализа логов и выявления брутфорса (RegEx, автоматизация рутины).
 
 ## 🛠️ Инструменты
 `Wazuh` · `Sysmon` · `Wireshark` · `Docker` · `Linux (WSL2)` · `Windows` · `Git`
