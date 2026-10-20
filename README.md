@@ -1,16 +1,17 @@
-## Hi there 👋
+# Привет, я Карина 👋
 
-<!--
-**forwardgazing/forwardgazing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Начинающий специалист в области информационной безопасности (SOC L1). 
+Имею образование по направлению «Бизнес-информатика» и практический опыт веб-разработки, который помогает мне глубже понимать ИТ-инфраструктуру и писать понятную техническую документацию.
 
-Here are some ideas to get you started:
+## 🛡️ Мой фокус в ИБ
+*   **Мониторинг и обнаружение:** Анализ логов Windows (Sysmon, Event Viewer), разбор алертов в SIEM.
+*   **Сети:** Анализ трафика (Wireshark), понимание TCP/IP, DNS.
+*   **Threat Intelligence:** Проверка индикаторов компрометации (IoC) через российские базы.
+*   **Фреймворки:** MITRE ATT&CK (маппинг техник), методика Triage (TP/FP/Benign).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Мои проекты
+*   **[SOC-Analyst-Lab](ссылка_на_второй_репозиторий_позже_вставим)** — Домашняя лаборатория на базе Wazuh и Sysmon. Развертывание, написание кастомных правил, разбор реальных сценариев атак.
+*   **[Credit Calculator](https://github.com/forwardgazing/credit-calculator)** — Интерактивный веб-калькулятор с визуализацией. Пример качественной разработки и оформления документации.
+
+## 🛠️ Инструменты
+`Wazuh` · `Sysmon` · `Wireshark` · `Docker` · `Linux (WSL2)` · `Windows` · `Git`
