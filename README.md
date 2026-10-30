@@ -15,6 +15,7 @@
 *   **[Antifraud-Analyzer](https://github.com/forwardgazing/Antifraud-Analyzer)** — Скрипт на Python для автоматизации мониторинга банковских транзакций и выявления аномалий (крупные суммы в ночное время).
 *   **[SQL-Database-Portfolio](https://github.com/forwardgazing/SQL-Database-Portfolio)** — Примеры SQL-запросов (T-SQL) для расследования инцидентов ИБ. Готовый полигон с созданием БД и поиском атак.
 *   **[Python-SOC-Tools](https://github.com/forwardgazing/Python-SOC-Tools)** — Скрипты для автоматизации Triage: парсинг логов, фильтрация локальных IP и выгрузка отчетов в CSV.
+*   **[OSINT-Toolkit](https://github.com/forwardgazing/OSINT-Toolkit)** — Инструментарий OSINT-аналитика: скрипт на Python для проверки доменов (WHOIS/RDAP + GeoIP) и шпаргалка по Google Dorks для поиска утечек.
 *   **[Credit Calculator](https://github.com/forwardgazing/credit-calculator)** — Учебный проект: интерактивный веб-калькулятор с визуализацией (HTML, CSS, JavaScript).
 
 ## 🛠️ Инструменты и технологии
