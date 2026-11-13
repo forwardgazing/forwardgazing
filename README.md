@@ -15,13 +15,13 @@
 ## 🚀 Мои проекты
 
 *   **[SOC-Analyst-Lab](https://github.com/forwardgazing/SOC-Analyst-Lab)** — Домашняя лаборатория на базе Wazuh и Sysmon. Развертывание SIEM, настройка Active Response (блокировка IP), написание кастомных правил детектирования и разбор реальных сценариев атак (Kali Linux, Atomic Red Team).
+*   **[Duty-Engineer-Toolkit](https://github.com/forwardgazing/Duty-Engineer-Toolkit)** — Инструменты для дежурной смены: Runbook-инструкции (High CPU, Disk Full), интеграция Zabbix с ITSM и скрипты для автоматизации создания тикетов.
 *   **[Antifraud-Analyzer](https://github.com/forwardgazing/Antifraud-Analyzer)** — Скрипт на Python для автоматизации мониторинга банковских транзакций и выявления аномалий (крупные суммы в ночное время, GeoIP).
 *   **[SQL-Database-Portfolio](https://github.com/forwardgazing/SQL-Database-Portfolio)** — Примеры SQL-запросов (T-SQL) для расследования инцидентов ИБ. Поиск брутфорса и «Невозможных путешествий» (Impossible Travel) с помощью оконных функций.
 *   **[Python-SOC-Tools](https://github.com/forwardgazing/Python-SOC-Tools)** — Скрипты для автоматизации Triage: парсинг логов аутентификации, фильтрация локальных IP и выгрузка отчетов в CSV.
 *   **[OSINT-Toolkit](https://github.com/forwardgazing/OSINT-Toolkit)** — Инструментарий OSINT-аналитика: скрипт на Python для проверки доменов (WHOIS/RDAP + GeoIP) и шпаргалка по Google Dorks.
 *   **[Credit Calculator](https://github.com/forwardgazing/Credit-Calculator)** — Учебный проект: интерактивный веб-калькулятор с визуализацией (HTML, CSS, JavaScript).
 
-*(🚧 В планах: репозиторий **Duty-Engineer-Toolkit** с Runbook-инструкциями и скриптами для автоматизации создания тикетов в ITSM).*
 
 ## ⚙️ Инструменты и технологии
 
