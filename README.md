@@ -36,7 +36,11 @@
 ![Suricata](https://img.shields.io/badge/Suricata-1D1D1B?style=for-the-badge&logo=suricata&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## 🎓 Сертификаты
 
+*   **Astra Linux**: «Продвинутое администрирование Astra Linux» (сертификат № T8EQE5141KRHC, 2026)
+*   **Astra Linux**: «LDAP-запросы: как автоматизировать задачи администрирования» (сертификат № 8168GATCRQUZA, 2026)
+*   **Astra Linux**: «Утилита IPA: как автоматизировать задачи администрирования» (сертификат № N428VBY6SCUV0, 2026)
 ## 📫 Связаться со мной
 
 *   **Telegram:** [@forwardgazing](https://t.me/forwardgazing)
